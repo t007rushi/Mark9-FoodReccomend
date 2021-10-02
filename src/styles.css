@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-image: "public/djan"; */
+}
+/* h2 {
+  color: violet;
+  text-align: left;
+} */
+body {
+  background-color: peachpuff;
+}
+
+button {
+  color: black;
+  text-align: right;
+  padding: 1rem 1.5rem;
+  margin: auto 0.5rem;
+  border-radius: 0.5;
+  border: 0.5px solid;
+}
